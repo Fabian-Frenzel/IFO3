@@ -1,6 +1,7 @@
 //Headerdatei für Datentypen zum Programm 'Literaturverwaltung'
 //Geschrieben von Roman Rohlfs im SoSe 2020 im Modul Informatik 1
 //Visual Studio 2017
+//Weiterentwickelt in 2021
 
 #pragma once
 
